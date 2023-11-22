@@ -1,7 +1,8 @@
 # add comment for app center
-# gradle-wrapper.jar
+gradle-wrapper.jar
 /gradlew
-# /gradlew.bat
+/gradlew.bat
+
 /.gradle
 /captures/
 /local.properties
